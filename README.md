@@ -1,4 +1,4 @@
-!https://flic.kr/p/N2LvdL
+!<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/mikemacmarketing/30212411048" title="Artificial Intelligence &amp; AI &amp; Machine Learning"><img src="https://live.staticflickr.com/1816/30212411048_2a1d7200e2_m.jpg" width="240" height="192" alt="Artificial Intelligence &amp; AI &amp; Machine Learning"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--
 **josebruq/josebruq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
