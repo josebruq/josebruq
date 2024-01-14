@@ -1,4 +1,4 @@
-<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/mikemacmarketing/30212411048" title="Artificial Intelligence &amp; AI &amp; Machine Learning"><img src="https://live.staticflickr.com/1816/30212411048_2a1d7200e2_c.jpg" width="800" height="640" alt="Artificial Intelligence &amp; AI &amp; Machine Learning"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/mikemacmarketing/30212411048" title="Artificial Intelligence &amp; AI &amp; Machine Learning"><img src="https://live.staticflickr.com/1816/30212411048_2a1d7200e2_c.jpg" width="800" height="640" alt="Artificial Intelligence &amp; AI &amp; Machine Learning"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>>
 <!--
 **josebruq/josebruq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
