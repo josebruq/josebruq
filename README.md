@@ -19,4 +19,4 @@ Actualmente ejerzo como data analytics en una importante compañia internacional
 </br>
 Y alguna más...
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jos%C3%A9-antonio-bru-quesada-a98418153/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Bru-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jos%C3%A9-antonio-bru-quesada-a98418153/)
