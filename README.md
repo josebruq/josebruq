@@ -2,7 +2,7 @@
 
 ### Physicits, data scientits and quantitative AI trader.
 
-Soy fisico, cientifico de datos y desarrollo modelos de inteligencia artificial para el trading con CFDs.
+Soy físico, científico de datos y desarrollo modelos de inteligencia artificial para el trading con CFDs.
 
 Actualmente ejerzo como data analytics en una importante compañia internacional de gran prestigio en ambito de la propiedad intelectual, a la par que desarrollo mis modelos para trading algoritmico.
 
